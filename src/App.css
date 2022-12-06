@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+
+.col-8{
+
+align-items: center;
+
+padding-left: 30%;
+}
+
+.card{
+  background-color: cadetblue;
+
+}
+.mb-5 h2{
+padding-left: 400px;
+}
+body{
+  background-repeat: no-repeat;
+  background-image: url("/images.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  
+  
+}
+
+
+
